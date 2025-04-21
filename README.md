@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ishikab3kb/LeetCode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/ishikab3kb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ishikab3kb/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishikab3kb/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/ishikab3kb/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ishikab3kb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
