@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ishikab3kb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ishikab3kb/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishikab3kb/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/ishikab3kb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ishikab3kb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishikab3kb/LeetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ishikab3kb/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
